@@ -1,0 +1,18 @@
+html body {
+    background-color: skyblue;
+}
+
+#formRegistro {
+    width: 80%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding-top: 10px;
+}
+
+.tituloRegistro {
+    text-align: center;
+    font-weight: bolder;
+    font-size: 30px;
+}

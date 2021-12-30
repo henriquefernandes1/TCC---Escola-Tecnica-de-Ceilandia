@@ -1,0 +1,20 @@
+#brand {
+    width: fit-content;
+}
+
+#menuLinks {
+    width: 100%;
+    justify-content: space-around;
+    text-align: center;
+    font-size: 50px;
+}
+
+@media (max-width: 575.98px) {
+    #menuLinks {
+        font-size: 30px;
+    }
+    #menuLinks>#session {
+        font-size: 15px;
+        font-weight: bolder;
+    }
+}
